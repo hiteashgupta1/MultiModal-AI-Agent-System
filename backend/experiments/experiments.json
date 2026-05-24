@@ -1,0 +1,2530 @@
+[
+  {
+    "timestamp": "2026-03-10 00:35:34.009635",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-03-10 00:39:36.125350",
+    "agent": "summarizer",
+    "confidence": 0.71,
+    "latency": 7.61,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-03-23 12:01:39.024904",
+    "agent": "summarizer",
+    "confidence": 0.72,
+    "latency": 13.65,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-03-23 12:02:34.992798",
+    "agent": "summarizer",
+    "confidence": 1.0,
+    "latency": 13.4,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-03-23 12:03:21.539570",
+    "agent": "vision",
+    "confidence": 0.86,
+    "latency": 8.69,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-03-23 12:03:57.521107",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-04-04 13:09:10.600081",
+    "agent": "summarizer",
+    "confidence": 0.72,
+    "latency": 22.62,
+    "hallucination": true,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-04 13:09:42.755081",
+    "agent": "summarizer",
+    "confidence": 0.1,
+    "latency": 18.51,
+    "hallucination": true,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-04 13:11:45.661340",
+    "agent": "vision",
+    "confidence": 0.74,
+    "latency": 10.1,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-04 13:42:56.447219",
+    "agent": "vision",
+    "confidence": 0.81,
+    "latency": 10.24,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-04 14:28:01.327513",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 9.54,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-07 21:51:29.419391",
+    "agent": "vision",
+    "confidence": 0.72,
+    "latency": 11.06,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-07 21:52:42.209459",
+    "agent": "summarizer",
+    "confidence": 0.88,
+    "latency": 18.59,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-07 21:53:07.463991",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-04-07 22:24:53.430130",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-04-07 22:28:15.684054",
+    "agent": "summarizer",
+    "confidence": 0.57,
+    "latency": 15.75,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-07 22:39:01.974124",
+    "agent": "summarizer",
+    "confidence": 0.99,
+    "latency": 15.37,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-07 22:43:23.276581",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 10.26,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-07 22:44:44.340806",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 9.29,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-07 22:45:40.322620",
+    "agent": "vision",
+    "confidence": 0.73,
+    "latency": 9.44,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-07 22:49:29.544843",
+    "agent": "vision",
+    "confidence": 0.85,
+    "latency": 9.2,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-07 22:51:05.971374",
+    "agent": "summarizer",
+    "confidence": 0.99,
+    "latency": 15.44,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-07 22:54:46.616053",
+    "agent": "summarizer",
+    "confidence": 0.94,
+    "latency": 14.17,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-07 22:57:06.647896",
+    "agent": "summarizer",
+    "confidence": 1.0,
+    "latency": 13.39,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-07 23:15:03.078028",
+    "agent": "summarizer",
+    "confidence": 0.97,
+    "latency": 28.61,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-07 23:17:43.333150",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-04-07 23:19:45.399566",
+    "agent": "vision",
+    "confidence": 0.67,
+    "latency": 9.51,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-19 20:11:10.927965",
+    "agent": "summarizer",
+    "confidence": 0.72,
+    "latency": 16.52,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-20 12:02:47.778177",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-04-20 12:04:33.595876",
+    "agent": "summarizer",
+    "confidence": 0.9,
+    "latency": 17.07,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-20 13:54:31.441717",
+    "agent": "vision",
+    "confidence": 0.91,
+    "latency": 5.44,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-20 14:25:52.558332",
+    "agent": "summarizer",
+    "confidence": 0.58,
+    "latency": 28.11,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-20 14:29:43.147593",
+    "agent": "vision",
+    "confidence": 0.0,
+    "latency": 6.31,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-21 23:28:00.388210",
+    "agent": "summarizer",
+    "confidence": 0.58,
+    "latency": 22.23,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-21 23:28:25.413663",
+    "agent": "summarizer",
+    "confidence": 0.72,
+    "latency": 8.03,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-21 23:35:51.927909",
+    "agent": "summarizer",
+    "confidence": 0.9,
+    "latency": 21.72,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-21 23:44:50.727090",
+    "agent": "summarizer",
+    "confidence": 0.89,
+    "latency": 13.88,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-21 23:46:42.255231",
+    "agent": "vision",
+    "confidence": 0.81,
+    "latency": 9.4,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-21 23:52:23.146920",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-04-21 23:55:07.293651",
+    "agent": "vision",
+    "confidence": 0.0,
+    "latency": 7.27,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-21 23:56:35.875296",
+    "agent": "summarizer",
+    "confidence": 0.44,
+    "latency": 24.08,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-22 00:00:17.992321",
+    "agent": "summarizer",
+    "confidence": 0.9,
+    "latency": 32.46,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-22 00:12:46.434940",
+    "agent": "summarizer",
+    "confidence": 0.79,
+    "latency": 16.27,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-22 00:14:00.701377",
+    "agent": "summarizer",
+    "confidence": 0.51,
+    "latency": 13.55,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-22 00:19:05.685901",
+    "agent": "summarizer",
+    "confidence": 0.59,
+    "latency": 20.71,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-22 00:19:38.562663",
+    "agent": "summarizer",
+    "confidence": 0.68,
+    "latency": 13.16,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-22 00:20:05.290985",
+    "agent": "vision",
+    "confidence": 0.79,
+    "latency": 5.93,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-22 10:22:39.058385",
+    "agent": "summarizer",
+    "confidence": 0.6,
+    "latency": 23.3,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-22 12:26:15.149770",
+    "agent": "summarizer",
+    "confidence": 0.53,
+    "latency": 15.45,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-22 12:30:48.985773",
+    "agent": "vision",
+    "confidence": 0.77,
+    "latency": 21.38,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-22 14:31:48.814677",
+    "agent": "summarizer",
+    "confidence": 0.53,
+    "latency": 24.95,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-22 14:37:00.588105",
+    "agent": "summarizer",
+    "confidence": 0.79,
+    "latency": 22.72,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-22 14:37:47.202495",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-04-22 14:38:49.268109",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-04-23 12:05:13.936953",
+    "agent": "summarizer",
+    "confidence": 0.59,
+    "latency": 19.3,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-23 12:06:28.177823",
+    "agent": "vision",
+    "confidence": 0.82,
+    "latency": 9.32,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-23 14:53:33.068955",
+    "agent": "summarizer",
+    "confidence": 0.56,
+    "latency": 22.49,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-23 14:56:33.135138",
+    "agent": "summarizer",
+    "confidence": 0.63,
+    "latency": 15.8,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-23 15:13:15.051757",
+    "agent": "summarizer",
+    "confidence": 0.55,
+    "latency": 20.23,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-24 14:39:16.510291",
+    "agent": "summarizer",
+    "confidence": 0.62,
+    "latency": 20.0,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-24 14:39:57.368310",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-04-24 14:44:42.604684",
+    "agent": "vision",
+    "confidence": 0.87,
+    "latency": 5.66,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-24 14:45:09.374690",
+    "agent": "vision",
+    "confidence": 0.87,
+    "latency": 3.5,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-04-24 14:45:20.250959",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-04-24 14:45:37.328360",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-04-24 14:46:23.191501",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-04-25 11:31:42.074685",
+    "agent": "summarizer",
+    "confidence": 0.89,
+    "latency": 20.05,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-04-25 11:32:21.239208",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-04-25 11:36:38.031691",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-04-25 11:44:22.839878",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-04-25 11:47:32.854489",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-04-25 11:58:28.786212",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-04-25 11:59:19.046635",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-05-04 12:51:16.119444",
+    "agent": "vision",
+    "confidence": 0.8,
+    "latency": 6.53,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-04 12:53:40.180004",
+    "agent": "vision",
+    "confidence": 0.85,
+    "latency": 5.69,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-04 12:54:15.142776",
+    "agent": "vision",
+    "confidence": 0.81,
+    "latency": 5.26,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-04 12:55:07.979541",
+    "agent": "vision",
+    "confidence": 0.93,
+    "latency": 5.18,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-04 12:56:10.569128",
+    "agent": "summarizer",
+    "confidence": 0.91,
+    "latency": 21.17,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-04 12:59:44.738408",
+    "agent": "summarizer",
+    "confidence": 0.64,
+    "latency": 17.56,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-04 13:03:25.077369",
+    "agent": "summarizer",
+    "confidence": 0.91,
+    "latency": 14.05,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-04 13:15:19.679914",
+    "agent": "summarizer",
+    "confidence": 0.57,
+    "latency": 23.04,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-04 13:17:39.718877",
+    "agent": "summarizer",
+    "confidence": 0.89,
+    "latency": 16.51,
+    "hallucination": true,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-04 13:18:45.667883",
+    "agent": "summarizer",
+    "confidence": 0.76,
+    "latency": 14.67,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-07 22:58:22.631965",
+    "agent": "summarizer",
+    "confidence": 0.6,
+    "latency": 25.61,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-07 22:59:29.319749",
+    "agent": "summarizer",
+    "confidence": 0.82,
+    "latency": 19.83,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-07 23:00:22.453033",
+    "agent": "summarizer",
+    "confidence": 0.91,
+    "latency": 20.66,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-07 23:01:28.616208",
+    "agent": "summarizer",
+    "confidence": 0.72,
+    "latency": 12.25,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-07 23:21:39.886648",
+    "agent": "summarizer",
+    "confidence": 0.98,
+    "latency": 21.22,
+    "hallucination": true,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-07 23:46:14.500849",
+    "agent": "summarizer",
+    "confidence": 1.0,
+    "latency": 23.88,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-07 23:47:18.485673",
+    "agent": "summarizer",
+    "confidence": 0.88,
+    "latency": 29.5,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-07 23:48:16.579814",
+    "agent": "summarizer",
+    "confidence": 0.94,
+    "latency": 18.7,
+    "hallucination": false,
+    "model_version": "summary_v1"
+  },
+  {
+    "timestamp": "2026-05-09 00:20:59.980537",
+    "agent": "vision",
+    "confidence": 0.82,
+    "latency": 7.74,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-09 00:26:49.085227",
+    "agent": "vision",
+    "confidence": 0.79,
+    "latency": 6.38,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-10 10:57:53.074659",
+    "agent": "vision",
+    "confidence": 0.8,
+    "latency": 5.05,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-10 10:58:21.751554",
+    "agent": "vision",
+    "confidence": 0.8,
+    "latency": 6.99,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-10 11:01:53.529765",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-05-10 11:02:35.364173",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-05-10 11:03:11.911820",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-05-10 11:03:44.963966",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-05-10 11:04:59.798955",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 11:07:46.840917",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 11:13:18.503146",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 11:18:24.508794",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 11:45:38.731747",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 11:57:01.217065",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 12:09:04.171332",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 12:09:10.213369",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 12:11:12.884059",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 12:20:54.716269",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 12:20:59.457715",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 12:21:05.053622",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 12:21:21.017801",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 12:21:27.823137",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 12:24:32.139108",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.0,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-10 20:08:02.038016",
+    "agent": "vision",
+    "confidence": 0.94,
+    "latency": 3.35,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-10 20:10:36.041841",
+    "agent": "vision",
+    "confidence": 0.8,
+    "latency": 5.46,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-10 20:11:18.134971",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 2.35,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-10 20:11:38.215175",
+    "agent": "vision",
+    "confidence": 0.83,
+    "latency": 6.03,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-10 20:11:53.997819",
+    "agent": "vision",
+    "confidence": 0.8,
+    "latency": 5.65,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-10 20:14:57.622489",
+    "agent": "vision",
+    "confidence": 0.99,
+    "latency": 5.62,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-10 20:25:36.549803",
+    "agent": "vision",
+    "confidence": 0.82,
+    "latency": 5.19,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-10 20:28:49.777683",
+    "agent": "vision",
+    "confidence": 0.87,
+    "latency": 4.74,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-11 12:41:16.873462",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 11.1,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:01:18.773778",
+    "agent": "vision",
+    "confidence": 0.93,
+    "latency": 9.79,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:02:47.791907",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.96,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:05:22.666788",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 12.2,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:08:30.962452",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 8.01,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:14:29.104538",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 1.39,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:14:47.622448",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 9.59,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:14:57.961692",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 3.22,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:20:15.982594",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 11.44,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:21:23.150100",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 16.85,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:21:36.989378",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 13.75,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:22:08.120385",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 1.09,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:22:12.591062",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.68,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:22:29.116291",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 3.09,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:23:47.312689",
+    "agent": "vision",
+    "confidence": 0.95,
+    "latency": 24.05,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:24:05.694882",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.95,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:24:17.499896",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 4.36,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:24:30.353731",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 3.29,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-11 13:25:15.179506",
+    "agent": "image_gen",
+    "confidence": 0.99,
+    "latency": 14.3,
+    "hallucination": false,
+    "model_version": "img_v1"
+  },
+  {
+    "timestamp": "2026-05-11 23:30:46.899979",
+    "agent": "vision",
+    "confidence": 0.9,
+    "latency": 5.3,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-12 23:51:29.954779",
+    "agent": "vision",
+    "confidence": 0.71,
+    "latency": 17.87,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-13 12:40:58.944262",
+    "agent": "vision",
+    "confidence": 0.86,
+    "latency": 6.19,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-13 12:42:49.270601",
+    "agent": "vision",
+    "confidence": 0.89,
+    "latency": 6.39,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-14 13:41:57.490315",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 1.42,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-14 13:42:15.077295",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 3.24,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-14 13:42:28.748775",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 3.2,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-14 13:43:12.924031",
+    "agent": "vision",
+    "confidence": 0.0,
+    "latency": 2.88,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-14 16:38:41.655422",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 5.42,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-14 16:39:27.141883",
+    "agent": "vision",
+    "confidence": 0.77,
+    "latency": 2.47,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-14 16:41:28.896539",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.85,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-14 16:41:37.085613",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 1.66,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-16 15:45:13.302583",
+    "agent": "vision",
+    "confidence": 0.99,
+    "latency": 2.51,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-16 15:45:58.769128",
+    "agent": "vision",
+    "confidence": 0.8,
+    "latency": 2.0,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-16 15:49:10.169763",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.62,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-16 15:49:16.870532",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 2.09,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-16 15:49:25.900642",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 2.92,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-16 15:49:36.148072",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 2.77,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-17 00:57:33.210228",
+    "agent": "vision",
+    "confidence": 0.75,
+    "latency": 1.59,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 01:00:22.700365",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.85,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-17 01:00:31.093301",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 3.81,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-17 17:49:19.208982",
+    "agent": "vision",
+    "confidence": 0.69,
+    "latency": 5.14,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 17:58:08.020653",
+    "agent": "vision",
+    "confidence": 0.85,
+    "latency": 5.61,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:44:32.836510",
+    "agent": "vision",
+    "confidence": 0.0,
+    "latency": 5.3,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:44:35.536130",
+    "agent": "vision",
+    "confidence": 0.93,
+    "latency": 1.92,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:44:41.128335",
+    "agent": "vision",
+    "confidence": 0.86,
+    "latency": 5.37,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:44:43.047114",
+    "agent": "vision",
+    "confidence": 0.98,
+    "latency": 1.79,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:44:49.377531",
+    "agent": "vision",
+    "confidence": 0.9,
+    "latency": 6.17,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:44:51.575105",
+    "agent": "vision",
+    "confidence": 0.9,
+    "latency": 2.03,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:44:53.657314",
+    "agent": "vision",
+    "confidence": 0.85,
+    "latency": 1.91,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:44:55.806661",
+    "agent": "vision",
+    "confidence": 0.63,
+    "latency": 1.94,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:44:57.900815",
+    "agent": "vision",
+    "confidence": 0.67,
+    "latency": 1.87,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:44:59.933268",
+    "agent": "vision",
+    "confidence": 0.74,
+    "latency": 1.92,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:02.032352",
+    "agent": "vision",
+    "confidence": 0.92,
+    "latency": 1.98,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:03.874516",
+    "agent": "vision",
+    "confidence": 0.75,
+    "latency": 1.67,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:05.929818",
+    "agent": "vision",
+    "confidence": 0.91,
+    "latency": 1.87,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:08.182478",
+    "agent": "vision",
+    "confidence": 0.85,
+    "latency": 2.06,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:10.247370",
+    "agent": "vision",
+    "confidence": 0.75,
+    "latency": 1.86,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:11.989903",
+    "agent": "vision",
+    "confidence": 0.83,
+    "latency": 1.56,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:14.315569",
+    "agent": "vision",
+    "confidence": 0.86,
+    "latency": 2.11,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:16.349773",
+    "agent": "vision",
+    "confidence": 0.87,
+    "latency": 1.89,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:18.340960",
+    "agent": "vision",
+    "confidence": 0.92,
+    "latency": 1.83,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:21.291281",
+    "agent": "vision",
+    "confidence": 0.95,
+    "latency": 2.82,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:23.067393",
+    "agent": "vision",
+    "confidence": 0.95,
+    "latency": 1.63,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:25.108258",
+    "agent": "vision",
+    "confidence": 0.66,
+    "latency": 1.85,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:27.229306",
+    "agent": "vision",
+    "confidence": 0.9,
+    "latency": 1.91,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:29.186587",
+    "agent": "vision",
+    "confidence": 0.68,
+    "latency": 1.81,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:31.294503",
+    "agent": "vision",
+    "confidence": 0.67,
+    "latency": 1.91,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:33.271757",
+    "agent": "vision",
+    "confidence": 0.75,
+    "latency": 1.84,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:35.098096",
+    "agent": "vision",
+    "confidence": 0.84,
+    "latency": 1.65,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:36.906006",
+    "agent": "vision",
+    "confidence": 0.53,
+    "latency": 1.66,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:38.888013",
+    "agent": "vision",
+    "confidence": 0.87,
+    "latency": 1.84,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:40.938213",
+    "agent": "vision",
+    "confidence": 0.69,
+    "latency": 1.88,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:42.689704",
+    "agent": "vision",
+    "confidence": 0.88,
+    "latency": 1.59,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:44.861796",
+    "agent": "vision",
+    "confidence": 0.54,
+    "latency": 2.0,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:46.779240",
+    "agent": "vision",
+    "confidence": 0.85,
+    "latency": 1.77,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:48.849991",
+    "agent": "vision",
+    "confidence": 0.8,
+    "latency": 1.81,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:50.913418",
+    "agent": "vision",
+    "confidence": 0.52,
+    "latency": 1.88,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:45:58.836603",
+    "agent": "vision",
+    "confidence": 0.81,
+    "latency": 2.27,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:46:01.769633",
+    "agent": "vision",
+    "confidence": 0.95,
+    "latency": 2.13,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:46:04.183472",
+    "agent": "vision",
+    "confidence": 0.87,
+    "latency": 1.59,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:46:06.881873",
+    "agent": "vision",
+    "confidence": 0.83,
+    "latency": 1.93,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:46:09.380441",
+    "agent": "vision",
+    "confidence": 0.75,
+    "latency": 1.69,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:46:12.205375",
+    "agent": "vision",
+    "confidence": 0.85,
+    "latency": 2.03,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:46:14.700724",
+    "agent": "vision",
+    "confidence": 0.87,
+    "latency": 1.67,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:46:17.738591",
+    "agent": "vision",
+    "confidence": 0.81,
+    "latency": 2.18,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 22:58:02.937047",
+    "agent": "vision",
+    "confidence": 0.8,
+    "latency": 11.05,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 23:06:10.958588",
+    "agent": "vision",
+    "confidence": 0.89,
+    "latency": 1.83,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 23:24:14.241047",
+    "agent": "vision",
+    "confidence": 0.81,
+    "latency": 1.93,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-17 23:42:29.993794",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 5.46,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-18 01:01:26.402053",
+    "agent": "vision",
+    "confidence": 0.96,
+    "latency": 41.91,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-18 01:02:22.236351",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.77,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-18 12:47:34.565004",
+    "agent": "summarizer",
+    "confidence": 0.88,
+    "latency": 265.5,
+    "hallucination": false,
+    "model_version": "summarizer_v1"
+  },
+  {
+    "timestamp": "2026-05-18 12:48:08.945398",
+    "agent": "vision",
+    "confidence": 0.99,
+    "latency": 28.17,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-18 12:48:37.070136",
+    "agent": "vision",
+    "confidence": 0.99,
+    "latency": 27.62,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-18 12:53:04.758391",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 5.92,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-18 12:57:04.474529",
+    "agent": "summarizer",
+    "confidence": 0.9,
+    "latency": 46.73,
+    "hallucination": true,
+    "model_version": "summarizer_v1"
+  },
+  {
+    "timestamp": "2026-05-18 13:02:56.501968",
+    "agent": "vision",
+    "confidence": 0.61,
+    "latency": 5.34,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-18 13:03:02.684058",
+    "agent": "vision",
+    "confidence": 0.59,
+    "latency": 3.36,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-18 13:03:05.174682",
+    "agent": "vision",
+    "confidence": 0.72,
+    "latency": 2.32,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-18 13:03:28.678777",
+    "agent": "vision",
+    "confidence": 0.69,
+    "latency": 23.35,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-18 13:03:34.182999",
+    "agent": "vision",
+    "confidence": 0.79,
+    "latency": 5.31,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-18 13:03:37.436313",
+    "agent": "vision",
+    "confidence": 0.76,
+    "latency": 2.8,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-18 13:03:40.326822",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 1.89,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:03:57.526288",
+    "agent": "vision",
+    "confidence": 0.84,
+    "latency": 5.16,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:04:02.923865",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 4.9,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:04:04.904714",
+    "agent": "vision",
+    "confidence": 0.99,
+    "latency": 1.58,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:04:06.522901",
+    "agent": "vision",
+    "confidence": 0.0,
+    "latency": 1.54,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:04:08.740271",
+    "agent": "vision",
+    "confidence": 0.62,
+    "latency": 1.8,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:04:10.474953",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 1.44,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:04:34.577137",
+    "agent": "vision",
+    "confidence": 0.86,
+    "latency": 23.77,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:04:36.638005",
+    "agent": "vision",
+    "confidence": 0.87,
+    "latency": 1.66,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:04:38.475446",
+    "agent": "vision",
+    "confidence": 0.8,
+    "latency": 1.51,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:04:40.300143",
+    "agent": "vision",
+    "confidence": 0.97,
+    "latency": 1.47,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:05:05.042146",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 24.41,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:05:07.222935",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 1.83,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:05:09.153877",
+    "agent": "vision",
+    "confidence": 0.9,
+    "latency": 1.59,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:05:11.046964",
+    "agent": "vision",
+    "confidence": 0.91,
+    "latency": 1.56,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:05:28.737033",
+    "agent": "vision",
+    "confidence": 0.97,
+    "latency": 17.4,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:05:41.178814",
+    "agent": "vision",
+    "confidence": 0.96,
+    "latency": 12.09,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:05:55.399355",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 13.87,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:05:57.810815",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 2.05,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:05:59.877658",
+    "agent": "vision",
+    "confidence": 0.98,
+    "latency": 1.68,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:06:01.726860",
+    "agent": "vision",
+    "confidence": 0.92,
+    "latency": 1.48,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:06:13.070395",
+    "agent": "vision",
+    "confidence": 0.68,
+    "latency": 11.15,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:06:32.548802",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 19.05,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:06:37.473633",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 4.57,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:06:40.976694",
+    "agent": "vision",
+    "confidence": 0.81,
+    "latency": 3.17,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:06:53.925955",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 12.62,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:07:02.095698",
+    "agent": "vision",
+    "confidence": 0.9,
+    "latency": 7.79,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:07:21.369239",
+    "agent": "vision",
+    "confidence": 0.83,
+    "latency": 18.94,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:07:40.871501",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 19.12,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:08:04.315249",
+    "agent": "vision",
+    "confidence": 0.74,
+    "latency": 22.96,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:08:10.435166",
+    "agent": "vision",
+    "confidence": 0.71,
+    "latency": 5.44,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:08:16.555033",
+    "agent": "vision",
+    "confidence": 0.67,
+    "latency": 5.44,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 21:08:21.779893",
+    "agent": "vision",
+    "confidence": 0.97,
+    "latency": 4.8,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:19.879718",
+    "agent": "vision",
+    "confidence": 0.97,
+    "latency": 5.24,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:25.438511",
+    "agent": "vision",
+    "confidence": 0.99,
+    "latency": 5.06,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:27.671755",
+    "agent": "vision",
+    "confidence": 0.82,
+    "latency": 1.84,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:29.689498",
+    "agent": "vision",
+    "confidence": 0.84,
+    "latency": 1.76,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:31.725852",
+    "agent": "vision",
+    "confidence": 0.94,
+    "latency": 1.64,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:37.689374",
+    "agent": "vision",
+    "confidence": 0.88,
+    "latency": 5.61,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:40.190313",
+    "agent": "vision",
+    "confidence": 0.9,
+    "latency": 2.08,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:42.419468",
+    "agent": "vision",
+    "confidence": 0.85,
+    "latency": 1.83,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:44.416904",
+    "agent": "vision",
+    "confidence": 0.93,
+    "latency": 1.65,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:46.462378",
+    "agent": "vision",
+    "confidence": 0.87,
+    "latency": 1.66,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:48.678098",
+    "agent": "vision",
+    "confidence": 0.76,
+    "latency": 1.83,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:50.611497",
+    "agent": "vision",
+    "confidence": 0.96,
+    "latency": 1.6,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:52.563481",
+    "agent": "vision",
+    "confidence": 0.88,
+    "latency": 1.58,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:54.488238",
+    "agent": "vision",
+    "confidence": 0.82,
+    "latency": 1.5,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:56.634339",
+    "agent": "vision",
+    "confidence": 0.88,
+    "latency": 1.79,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:18:58.584571",
+    "agent": "vision",
+    "confidence": 0.93,
+    "latency": 1.65,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:00.530591",
+    "agent": "vision",
+    "confidence": 0.81,
+    "latency": 1.6,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:02.491645",
+    "agent": "vision",
+    "confidence": 0.83,
+    "latency": 1.56,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:04.133712",
+    "agent": "vision",
+    "confidence": 0.79,
+    "latency": 1.28,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:06.068622",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 1.53,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:07.992298",
+    "agent": "vision",
+    "confidence": 0.79,
+    "latency": 1.56,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:10.140667",
+    "agent": "vision",
+    "confidence": 0.73,
+    "latency": 1.57,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:11.928512",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 1.32,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:13.776400",
+    "agent": "vision",
+    "confidence": 0.99,
+    "latency": 1.53,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:15.661934",
+    "agent": "vision",
+    "confidence": 0.74,
+    "latency": 1.48,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:17.904239",
+    "agent": "vision",
+    "confidence": 0.82,
+    "latency": 1.57,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:20.633752",
+    "agent": "vision",
+    "confidence": 0.86,
+    "latency": 2.14,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:22.312800",
+    "agent": "vision",
+    "confidence": 0.99,
+    "latency": 1.28,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:24.121765",
+    "agent": "vision",
+    "confidence": 0.82,
+    "latency": 1.41,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:26.558831",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 1.85,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:28.370204",
+    "agent": "vision",
+    "confidence": 0.81,
+    "latency": 1.49,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:30.515113",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 1.73,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:32.374514",
+    "agent": "vision",
+    "confidence": 0.99,
+    "latency": 1.4,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:34.288898",
+    "agent": "vision",
+    "confidence": 0.77,
+    "latency": 1.53,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:36.150179",
+    "agent": "vision",
+    "confidence": 0.82,
+    "latency": 1.44,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:38.763718",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 2.03,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:40.761676",
+    "agent": "vision",
+    "confidence": 0.98,
+    "latency": 1.61,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:42.559189",
+    "agent": "vision",
+    "confidence": 1.0,
+    "latency": 1.42,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:46.893237",
+    "agent": "vision",
+    "confidence": 0.75,
+    "latency": 3.71,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:49.350741",
+    "agent": "vision",
+    "confidence": 0.67,
+    "latency": 2.04,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:51.247719",
+    "agent": "vision",
+    "confidence": 0.82,
+    "latency": 1.51,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:53.305033",
+    "agent": "vision",
+    "confidence": 0.86,
+    "latency": 1.59,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:55.372891",
+    "agent": "vision",
+    "confidence": 0.85,
+    "latency": 1.59,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:57.814430",
+    "agent": "vision",
+    "confidence": 0.97,
+    "latency": 1.94,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:19:59.856877",
+    "agent": "vision",
+    "confidence": 0.76,
+    "latency": 1.67,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:20:02.043482",
+    "agent": "vision",
+    "confidence": 0.98,
+    "latency": 1.7,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:20:04.132073",
+    "agent": "vision",
+    "confidence": 0.65,
+    "latency": 1.74,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:21:18.301807",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 5.63,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:21:20.503371",
+    "agent": "vision",
+    "confidence": 0.99,
+    "latency": 1.84,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:21:26.440637",
+    "agent": "vision",
+    "confidence": 0.74,
+    "latency": 5.3,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:21:29.202924",
+    "agent": "vision",
+    "confidence": 0.81,
+    "latency": 2.37,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:21:34.923120",
+    "agent": "vision",
+    "confidence": 0.77,
+    "latency": 5.12,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:21:37.231492",
+    "agent": "vision",
+    "confidence": 0.83,
+    "latency": 1.88,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:21:39.222493",
+    "agent": "vision",
+    "confidence": 0.77,
+    "latency": 1.65,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-19 22:21:41.698004",
+    "agent": "vision",
+    "confidence": 0.78,
+    "latency": 2.03,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  },
+  {
+    "timestamp": "2026-05-21 16:56:21.795605",
+    "agent": "summarizer",
+    "confidence": 0.88,
+    "latency": 57.87,
+    "hallucination": false,
+    "model_version": "summarizer_v1"
+  },
+  {
+    "timestamp": "2026-05-21 23:14:27.388804",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 0.79,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-21 23:14:41.728518",
+    "agent": "tts",
+    "confidence": 0.95,
+    "latency": 2.34,
+    "hallucination": false,
+    "model_version": "audio_v1"
+  },
+  {
+    "timestamp": "2026-05-21 23:15:02.357047",
+    "agent": "vision",
+    "confidence": 0.86,
+    "latency": 5.3,
+    "hallucination": false,
+    "model_version": "objdetect_v1"
+  }
+]

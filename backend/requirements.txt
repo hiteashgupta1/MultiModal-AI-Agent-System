@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+transformers
+torch
+peft
+sentence-transformers
+faiss-cpu
+pymupdf
+opencv-python
+pillow
+numpy
+requests
+pandas
+python-multipart

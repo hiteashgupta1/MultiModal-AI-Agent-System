@@ -1,0 +1,6 @@
+{
+ "active_model": "orchestrator_v2",
+ "previous_model": "orchestrator_v1",
+ "avg_confidence": 0.82,
+ "hallucination_rate": 0.10
+}
